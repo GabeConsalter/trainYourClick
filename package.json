@@ -1,0 +1,23 @@
+{
+  "name": "trainyourclick",
+  "version": "1.0.0",
+  "description": "An app to Train Your Click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "train",
+    "click",
+    "mouse",
+    "click",
+    "training",
+    "fast"
+  ],
+  "author": "GabeConsalter",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
